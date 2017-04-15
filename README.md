@@ -1,4 +1,4 @@
-# Kotlin User Gropu Belgium - BBD with spek Sample
+# Kotlin User Group Belgium - BBD with spek Sample
 
 BBD with Spek sample code to accompany slides: https://speakerdeck.com/nomisrev/behaviour-driven-development-in-kotlin-with-spek
 
